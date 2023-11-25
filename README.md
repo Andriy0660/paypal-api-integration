@@ -4,9 +4,8 @@
 
 #### Create order
 
-```http
-  POST /create
-```
+`POST /create`
+
 ### Accepts
 
 | Parameter | Type                 |
