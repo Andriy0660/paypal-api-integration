@@ -4,7 +4,7 @@
 
 #### Create order
 
-`POST /create`
+## `POST /create`
 
 ### Accepts
 
